@@ -1,0 +1,162 @@
+*{
+    /* border : 1px solid red; */
+    font-family:initial;
+   
+}
+
+body {
+    background-color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.sign-in{
+    margin: auto;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 140px;
+    position: static;
+    width: 345px;
+    color: black;
+    border: rgba(236, 234, 234, 0.979)  solid;
+}
+
+input{
+    border:rgb(44, 45, 45) solid ;
+    border-radius: 4px;
+    border-width: 0.3px;
+    height: 27px;
+    width: 325px;
+    margin-bottom: 15px;
+}
+
+.forgot-password{
+    color:rgb(83, 142, 225);
+    padding-left: 140px;
+    text-decoration: none;
+}
+
+.forgot-password:hover {
+    text-decoration:underline ;
+}
+
+.continue-button {
+    height: 27px;
+    font-size: 14px;
+    background: rgb(231, 198, 89) ;
+    border: rgba(162, 107, 5, 0.733);
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 325px;
+}
+
+.continue-button:hover{
+    background: rgb(229, 180, 88);
+}
+ul {
+list-style-type:square; 
+padding-left: 20px;
+margin-bottom: 5px;
+}
+
+.need-help {
+    color:rgb(83, 142, 225);
+    text-decoration: none;
+    }
+
+.need-help:hover{
+    text-decoration: underline;
+}
+
+.new { 
+    letter-spacing:inherit;
+    text-align: center;
+    color: rgb(152, 147, 147);
+    border-bottom: 1px solid rgba(55, 54, 54, 0.3);
+    line-height: 0.4em;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+p span {
+    background-color: rgb(252, 250, 250);
+    padding-left: 12px;
+    padding-right: 12px;
+}
+   
+
+.create-account {
+    text-align: center;
+}
+
+.create-button {
+    background: rgb(233, 232, 232);
+    border:solid rgb(218, 215, 215);
+    color: black;
+    width:345px;
+    height: 27px;
+    
+}
+
+.create-button:hover{
+    background:rgb(218, 216, 216);
+
+}
+
+hr {
+    margin-top: 40px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.info {
+   font-size: 12px;
+}
+
+.conditions {
+    color:rgb(83, 142, 225);
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.conditions:hover {
+    text-decoration: underline;
+}
+   
+
+.privacy-policy {
+    color:rgb(83, 142, 225);
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.privacy-policy:hover {
+    text-decoration: underline;
+}
+
+.help {
+    color:rgb(83, 142, 225);
+    text-decoration: none;
+    margin-right: 12px;
+}
+
+.help:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    font-size: 12px;
+}
